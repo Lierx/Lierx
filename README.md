@@ -6,6 +6,3 @@
 <p align="center">
   <a href="https://github.com/Lierx"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Lierx&show_icons=true&theme=transparent"></a>
 </p>
-<p align="center">
-  <a href="https://discord.gg/krwSNHH3fc"><img height="100" src="https://cdn.discordapp.com/attachments/923062951882158130/1101926827481645226/discord.png">
-</p>
