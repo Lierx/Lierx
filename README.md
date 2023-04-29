@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="150" src="https://cdn.discordapp.com/attachments/923062951882158130/1101921964081287218/IMG_20230429_132354.jpg">
+  <a href="https://github.com/Lierx"><img height="150" src="https://cdn.discordapp.com/attachments/923062951882158130/1101921964081287218/IMG_20230429_132354.jpg"></a>
 </p>
 <h1 align="center">github.com/Lierx</h1>
 <h3 align="center">Estadisticas del Lierx</h3>
